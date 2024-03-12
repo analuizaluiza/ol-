@@ -1,4 +1,4 @@
-
+//questao 2
 #include <stdio.h>
 
 int fibonacci(int n) {
@@ -28,7 +28,7 @@ int main() {
 }
 
 
-
+//questao 5
 #include <stdio.h>
 #include <string.h>
 
